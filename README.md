@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Priyank Gupta</h1>
 <h3 align="center">A passionate software Engineer</h3>
 
-<img align="right" alt="coding" widtth="400" src="https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=6c09b952zino35c6fu5ed035uekw67legmz0hjkssvbzu46g&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"
+<img align="right" alt="coding" widtth="400" src="![image](https://github.com/user-attachments/assets/3007a747-91d0-4242-b713-41efaa4278b7)
+"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankguptar&label=Profile%20views&color=0e75b6&style=flat" alt="priyankguptar" /> </p>
 
